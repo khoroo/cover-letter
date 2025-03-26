@@ -1,0 +1,3 @@
+[submodule "pandoc-letter-din5008"]
+	path = pandoc-letter-din5008
+	url = https://github.com/benedictdudel/pandoc-letter-din5008

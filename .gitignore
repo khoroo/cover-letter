@@ -1,0 +1,6 @@
+*.pdf
+*.md
+*.txt
+!template.md
+!README.md
+.DS_Store
